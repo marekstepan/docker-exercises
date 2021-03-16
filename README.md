@@ -1,1 +1,1 @@
-# This repository contains my simple docker exercises.
+This repository contains my simple docker exercises.
